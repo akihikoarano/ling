@@ -100,7 +100,7 @@ footer {
     }
     
     section  a:link {
-      color: black;
+      color: rgb(72, 115, 157);
       background-color: transparent;
       text-decoration: underline;
     }
